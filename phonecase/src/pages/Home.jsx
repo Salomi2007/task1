@@ -8,7 +8,7 @@ const Home = () => {
       <section className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center min-h-screen px-6 max-w-7xl mx-auto">
         <div className="space-y-6">
           <h1 className="text-6xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent leading-tight">
-            Protect Your Phone in Style
+            Protect Your tone in Style
           </h1>
           <p className="text-xl text-gray-600">
             Discover premium phone cases that combine ultimate protection with stunning design. From clear cases to rugged armor - find your perfect match.
